@@ -1,0 +1,36 @@
+*{
+	font-family: montserrat italic;
+}
+
+body{
+	background-color: powderblue;
+}
+
+h1,h2{
+	text-align: center;
+	margin: 10px;
+}
+
+footer{
+	background-color: black;
+	padding: 10px;
+	color: white;
+	text-align: center;
+}
+
+h3,p{
+	text-align: center;
+}
+
+img.feature_img{
+	display: block;
+	margin-left: auto;
+    margin-right: auto;
+	margin-top: 30px;
+}
+
+.feature-content{
+	margin: 30px;
+}
+
+.d-grid
